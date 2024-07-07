@@ -58,7 +58,7 @@ Follow these steps to set up the environment and install the necessary dependenc
 - Adjust hyperparameters as needed in the notebook.
 
 ## Results
-Our model achieved outstanding results with an accuracy of 1.0 across all classes during validation. For detailed metrics and visualizations, refer to our Medium post.
+My model achieved great results with 1.0 accuracy across all classes during validation. For detailed metrics and visualizations, check out my [Medium](https://medium.com/p/21f56b9b0c7b) post.
 
 ## Contributing
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
